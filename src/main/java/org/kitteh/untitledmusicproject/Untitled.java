@@ -1,5 +1,7 @@
 package org.kitteh.untitledmusicproject;
 
-public class Untitled {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Untitled extends JavaPlugin {
 
 }
