@@ -1,0 +1,7 @@
+name: UntitledMusicProject
+main: org.kitteh.untitledmusicproject.Untitled
+version: '${project.version}'
+website: http://kitteh.org
+softdepend: [Spout]
+author: mbaxter
+description: Plays music and doesnt afraid of anything
